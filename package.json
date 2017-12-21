@@ -1,0 +1,19 @@
+{
+  "name": "macro-panel",
+  "version": "0.1.0",
+  "description": "A React component that displays available shortcuts on a webpage.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinnhieu/macro-panel.git"
+  },
+  "author": "Calvin Nhieu <calvin.nhieu@gmail.com> (https://github.com/calvinnhieu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinnhieu/macro-panel/issues"
+  },
+  "homepage": "https://github.com/calvinnhieu/macro-panel#readme"
+}
