@@ -10,7 +10,7 @@ React component for [Macro Chrome Extension](https://github.com/andyzg/macro)
 Clone this repo and create a global symlink:
 * `git@github.com:calvinnhieu/macro-panel.git`
 * `cd macro-panel`
-* `cd npm link`
+* `npm link`
 
 In your [Macro](https://github.com/andyzg/macro) repo:
 * `npm link macro-panel`
