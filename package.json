@@ -35,6 +35,7 @@
     "react-dom": "^16.2.0"
   },
   "dependencies": {
+    "keymaster": "^1.6.2",
     "webfontloader": "^1.6.28"
   }
 }
